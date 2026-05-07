@@ -119,7 +119,7 @@ Titanic-EDA/
 
 Clone the repository:
 
-git clone https://github.com/your-username/titanic-eda.git
+git clone https://github.com/Kaleemali02/titanic-eda.git
 
 Install dependencies:
 
